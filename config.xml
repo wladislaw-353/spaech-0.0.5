@@ -9,7 +9,7 @@
 <platform name="android" >
     <access origin="*"/>
 </platform>
-<preference name="phonegap-version" value="cli-6.4.0" />
+<preference name="phonegap-version" value="cli-3.7.0" />
 <preference name="xwalkMultipleApk" value="false" />
 <plugin name="cordova-plugin-crosswalk-webview" spec="1.8.0"/>
 <plugin name="cordova-plugin-fullscreen" spec="1.1.0"/>
